@@ -1,6 +1,6 @@
 Object Detection Using TensorFlow 
 ========================
-This repository is a tutorial for how to use TensorFlow's Object Detection API<br>
+This repository is a tutorial for how to use TensorFlow Object Detection<br>
 
 ## Steps
 #### 1. Install NVIDIA cuDNN, CUDA Toolkit and Reboot computer
